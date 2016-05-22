@@ -1,2 +1,2 @@
-FROM centos:latest
-RUN useradd training
+FROM centos:6.7
+RUN useradd vijayaji
